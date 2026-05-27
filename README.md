@@ -82,7 +82,7 @@ To write an assembly language program in 8086 to generate Sawtooth and Square wa
 
 | Waveform  | Amplitude | Time period | 
 |-----------|-----------|-------------|
-| Sawtooth  |    8.08V       |   1.642ms          | 
+| Sawtooth  |    8.08V      |   1.642ms        | 
 | Square    |    9.40V      |   6.05ms          |
 ---
 
